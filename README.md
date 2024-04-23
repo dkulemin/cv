@@ -17,7 +17,7 @@ Data / Machine Learning Engineer
 
 Tech Stack: Python, Airflow, ClickHouse, Spark, Hadoop
 
-## 👨‍🏫 Mentoring and assitance
+## 👨‍🏫 Mentoring and assitance:
 
 **Mentor** @ [BIGDATA TEAM](https://bigdatateam.org/) *(Jul 2021 - Present)*
 
