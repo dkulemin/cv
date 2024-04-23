@@ -32,6 +32,22 @@ Tech Stack: Python, Airflow, ClickHouse, Spark, Hadoop
 
 * Checking, grading and giving feedback on NLP course students homeworks
 
+## 🔧 Professional skills and interests:
+
+* Programming languages: Python, Scala (basics), C++ (basics)
+* Database systems: ClickHouse, Hadoop
+* Tools and frameworks: Spark, Airflow
+
+📚 Interested in and continiously improving:
+
+* ML: classical algorithms, NLP, CV, RecSys
+
+## 💬 Languages:
+
+🇷🇺 Russian: native
+
+🇬🇧 English: B2
+
 ## 🎓 Education and Certificates:
 
 One week of intensive studying GPT technologies  
@@ -56,19 +72,3 @@ Certificate No: 002-00-045 (19.11.2019)
 
 **Mathematician** with specialization in Information Security  
 [State University or Tyumen](https://www.utmn.ru/) *(Sep 2007 - Feb 2013)*
-
-## 🔧 Professional skills and interests:
-
-* Programming languages: Python, Scala (basics), C++ (basics)
-* Database systems: ClickHouse, Hadoop
-* Tools and frameworks: Spark, Airflow
-
-📚 Interested in and continiously improving:
-
-* ML: classical algorithms, NLP, CV, RecSys
-
-## 💬 Languages:
-
-🇷🇺 Russian: native
-
-🇬🇧 English: B2
