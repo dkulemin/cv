@@ -4,7 +4,7 @@ Data / Machine Learning Engineer
 
 [Telegram](https://t.me/dkulemin) / [GitHub](https://github.com/dkulemin)
 
-## 🛠️ Experience:
+## 🛠️ Experience
 
 **Data Engineer** @ [VK](https://vk.company/) *(Aug 2021 - Present)*
 
@@ -17,7 +17,7 @@ Data / Machine Learning Engineer
 
 Tech Stack: Python, Airflow, ClickHouse, Spark, Hadoop
 
-## 👨‍🏫 Mentoring and assitance:
+## 👨‍🏫 Mentoring and assitance
 
 **Mentor** @ [BIGDATA TEAM](https://bigdatateam.org/) *(Jul 2021 - Present)*
 
@@ -32,7 +32,7 @@ Tech Stack: Python, Airflow, ClickHouse, Spark, Hadoop
 
 * Checking, grading and giving feedback on NLP course students homeworks
 
-## 🔧 Professional skills and interests:
+## 🔧 Professional skills and interests
 
 * Programming languages: Python, Scala (basics), C++ (basics)
 * Database systems: ClickHouse, Hadoop
@@ -42,13 +42,13 @@ Tech Stack: Python, Airflow, ClickHouse, Spark, Hadoop
 
 * ML: classical algorithms, NLP, CV, RecSys
 
-## 💬 Languages:
+## 💬 Languages
 
 🇷🇺 Russian: native
 
 🇬🇧 English: B2
 
-## 🎓 Education and Certificates:
+## 🎓 Education and Certificates
 
 One week of intensive studying GPT technologies  
 [SHAD](https://lyceum.s3.yandex.net/gpt_certs/789_%D0%9A%D1%83%D0%BB%D1%91%D0%BC%D0%B8%D0%BD%D0%94%D0%B0%D0%BD%D0%B8%D0%BB%D0%B0%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B8%D1%87.pdf?mindbox-message-key=5242189973118058496&mindbox-click-id=af286134-45b5-4ef5-8f26-2167207c4c1a&utm_source=mindbox&utm_medium=email&utm_campaign=gptweek23&utm_content=post2612) *(Dec 2023)*
