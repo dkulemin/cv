@@ -40,7 +40,7 @@ Tech Stack: Python, Airflow, ClickHouse, Spark, Hadoop
 
 📚 Interested in and continiously improving:
 
-* ML: classical algorithms, NLP, CV, RecSys
+* ML: classical algorithms, NLP
 
 ## 💬 Languages
 
@@ -71,4 +71,4 @@ Certificate No: 002-00-045 (19.11.2019)
 
 
 **Mathematician** with specialization in Information Security  
-[State University or Tyumen](https://www.utmn.ru/) *(Sep 2007 - Feb 2013)*
+[State University of Tyumen](https://www.utmn.ru/) *(Sep 2007 - Feb 2013)*
