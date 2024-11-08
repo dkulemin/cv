@@ -13,20 +13,21 @@ Data / Machine Learning Engineer
 * Writing and optimizing complex SQL queries
 * Developing reports and analytic dash-boards
 * Developing automating ML pipelines
+* Developing module for AB platform
 * Resolving ad-hoc tasks
 
-Tech Stack: Python, Airflow, ClickHouse, Spark, Hadoop
+Tech Stack: Python, Airflow, ClickHouse, Spark, Hadoop, YQL
 
 ## 👨‍🏫 Mentoring and assitance
-
-**Mentor** @ [BIGDATA TEAM](https://bigdatateam.org/) *(Jul 2021 - Present)*
-
-* Answer students questions in BigData course chat
-* Help improving BigData course materials
 
 **Assistant** @ [GIRAFFE AI](https://girafe.ai/) *(Nov 2023 - Present)*
 
 * Checking, grading and giving feedback on NLP course students homeworks
+
+**Mentor** @ [BIGDATA TEAM](https://bigdatateam.org/) *(Jul 2021 - Sep 2024)*
+
+* Answer students questions in BigData course chat
+* Help improving BigData course materials
 
 **Assistant** @ [MADE](https://data.vk.company/) *(Mar 2022 - Jun 2023)*
 
@@ -40,13 +41,19 @@ Tech Stack: Python, Airflow, ClickHouse, Spark, Hadoop
 
 📚 Interested in and continiously improving:
 
-* ML: classical algorithms, NLP
+* ML: classical algorithms, NLP, RecSys
 
 ## 💬 Languages
 
 🇷🇺 Russian: native
 
 🇬🇧 English: B2
+
+## 🏆 Competitions
+
+DLS x ecom.tech: NLP multilable classification problem
+
+[17th place solution](https://github.com/dkulemin/dls_ecomtech_nlp_competition) *(Oct 2024)*
 
 ## 🎓 Education and Certificates
 
